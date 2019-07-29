@@ -1,3 +1,5 @@
+![pix](https://repository-images.githubusercontent.com/199478312/068e4800-b226-11e9-9e1d-3580419ccfe5)
+
 # DS_Chat
 #### Version 0.50 
 
